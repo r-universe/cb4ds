@@ -1,5 +1,13 @@
 [
   {
+    "package": "DGEobj",
+    "oncran": true
+  },
+  {
+    "package": "DGEobj.utils",
+    "oncran": true
+  },
+  {
     "package": "periscope",
     "oncran": true
   }
