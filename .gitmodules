@@ -1,20 +1,13 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "DGEobj"]
 	path = DGEobj
 	url = https://github.com/cb4ds/dgeobj
-	shallow = true
-	registered = true
 [submodule "DGEobj.utils"]
 	path = DGEobj.utils
 	url = https://github.com/cb4ds/dgeobj.utils
-	shallow = true
-	registered = true
 [submodule "periscope"]
 	path = periscope
 	url = https://github.com/cb4ds/periscope
-	shallow = true
-	registered = true
